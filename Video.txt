@@ -1,0 +1,11 @@
+P 20192345 Ad_Astra 123 Drama 6.6
+P 20190750 The_Platform 94 Drama 7
+P 20191580 Star_Wars:The_Rise_of_Skywalker 144 Accion 6.7
+P 20191245 The_Lion_King 118 Drama 6.9 
+P 20200341 Onward 102 Accion 7.5
+P 20200450 Extraction 116 Drama 6.8 
+P 20171580 Beauty_and_the_Beast 128 Accion 7.1
+S 20110125 Game_of_Thrones Drama 8
+S 20170120 Dark_Misterio 2
+S 20160150 Stranger_Things Accion 3
+S 20170220 La_casa_de_papel Drama 4
