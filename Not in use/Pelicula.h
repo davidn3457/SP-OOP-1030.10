@@ -1,17 +1,18 @@
-#ifndef PELICULA_H
-#define PELICULA_H
+#ifndef PELI_H
+#define PELI_H
 #include <iostream>
 using namespace std;
 
-class Pelicula: public Video
+class Peli: public Proyectable
 {
   public:
-  Pelicula(string, string, int, string, int);
+  Peli(string, string, int, string, int);
+  ~Peli();
   int getMuestra();
   void proyecta();
   void getDetalles();
 };
-
+/*
 Pelicula::Pelicula(string i, string n, int d, string g, int c):Video(i,n,d,g,c)
 {
   
@@ -24,4 +25,6 @@ int Pelicula::getMuestra()
 void Pelicula::proyecta()
 {
   cout<<"Se esta proyectando la pelicula "<< nombre;
-}
+};
+*/
+#endif
